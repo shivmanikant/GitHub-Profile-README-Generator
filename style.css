@@ -1,9 +1,11 @@
 body{
-    background-color: #131515;
+    background-color: #292c35;
 }
 .heading1{
     color: #FFFABF;
     text-align: center;
+    text-decoration: underline;
+    text-shadow: white;
 }
 .center {
     display: block;
@@ -11,4 +13,11 @@ body{
     margin-right: auto;
     width: 50%;
     height: 10;
+}
+img {
+    display: block;
+    border: 1px solid #888;
+    margin-bottom: 1.25em;
+    height: 10%;
+    /* align-items: center; */
 }
